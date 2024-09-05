@@ -59,7 +59,7 @@ body:
     attributes:
       label: Browser, Desktop or Mobile Platform Information
       description: |
-        Would you mind to tell us the system information about your desktop or mobile platform?
+        Please tell us the system information about your desktop or mobile platform. The exact app version is helpful and found in `Settings` (press `t s`) by clicking on the version e.g. `0.10.10`. A notification pops up with the exact version.
       placeholder: |
         OS version, Browser or App, Logseq App version
         example: macOS 12.2, Desktop App v0.5.9
