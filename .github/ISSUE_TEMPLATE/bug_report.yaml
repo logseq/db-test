@@ -6,7 +6,7 @@ body:
       value: |
         Thank you very much for opening a bug report with Logseq.
 
-        Please make sure to provide a descriptive, deterministic, and reproducible report. It saves time for both the developers and users who are looking for solutions. Providing as much information as possible, including screenshots and logs, is highly appreciated. This will help us to better understand the issue and respond more effectively.
+        Please make sure to provide a descriptive, deterministic, and reproducible report. It saves time for both the developers and users who are looking for solutions. Providing as much information as possible, including screenshots and logs, is highly appreciated. This will help us to better understand the issue and respond more effectively. For issues that involve external files e.g. importing, please add specific files to help reproduce the issue.
 
         Please DO NOT use this template to ask questions. There are other appropriate channels to ask questions. This template is strictly for reporting bugs.
   - type: checkboxes
@@ -47,11 +47,11 @@ body:
     validations:
       required: false
   - type: textarea
-    id: screenshots
+    id: files
     attributes:
-      label: Screenshots
+      label: Files
       description: |
-        If applicable, add screenshots or screen recordings to help explain your problem.
+        If applicable, add files, screenshots or screen recordings to help explain your problem.
     validations:
       required: false
   - type: textarea
