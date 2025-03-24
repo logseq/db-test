@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Features/Enhancement Issues
+    url: https://discord.com/invite/VNfUaTtdFb
+    about: Find existing requests in `#alpha-db-feedback` channel and vote on them. If none exist, create a new one.
+  - name: Questions
+    url: https://discord.com/invite/VNfUaTtdFb
+    about: Ask questions in `#alpha-db-chat` channel.
